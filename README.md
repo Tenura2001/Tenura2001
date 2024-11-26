@@ -1,39 +1,72 @@
-# 👋 Hi there, I'm @Tenura2001!  
+<h1 align="center">Hi there, I'm Tenura Pinsara! 👋</h1>
 
-### 🚀 About Me
-- 🔧 **Interests:** Electronics, Artificial Intelligence, and Embedded Systems  
-- 🎓 **Currently Learning:**  
-  - Embedded Machine Learning (Edge AI)  
-  - Advanced Electronics and AI Systems  
+<p align="center">
+  <b>🚀 Electronics Enthusiast | AI Explorer | Embedded ML Innovator</b>
+</p>
 
-### 🌟 Goals
-- 🤝 **Looking to Collaborate On:** Projects related to **Embedded Machine Learning** and **AI for IoT**  
-- 📚 **Passionate About:** Bridging the gap between **hardware** and **AI** to build smarter, efficient, and scalable solutions  
+---
 
-### 💻 Skills
-- **Programming Languages:** Python, C/C++, Java  
-- **Tools & Frameworks:** TensorFlow Lite, PyTorch, Arduino, ESP32, SystemVerilog  
-- **Expertise Areas:**  
-  - Digital Electronics and PCB Design  
-  - Microcontroller Programming  
-  - Machine Learning Model Deployment on Edge Devices  
+### 🌟 About Me
+- 🛠️ **Passionate about** designing innovative **electronics** and integrating **AI** into hardware.  
+- 🔍 Exploring the intersection of **Edge AI**, **Digital Electronics**, and **IoT**.  
+- 🤝 Open to collaborating on projects that push the boundaries of **Embedded Machine Learning**.  
 
-### 📫 Connect with Me
-- 🌐 **LinkedIn:** [Find Me Easily](www.linkedin.com/in/tenura-pinsara)  
-- 💡 Always open to new ideas, collaborations, and discussions about AI and Electronics!  
+---
+
+### 💼 Skills & Expertise
+#### **Electronics Specialization**
+- PCB Design and Prototyping  
+- Microcontrollers: Arduino, ESP32, STM32  
+- Digital Circuit Design: SystemVerilog, Digital Logic  
+
+#### **AI & Embedded Systems**
+- Machine Learning on Edge Devices (TensorFlow Lite, PyTorch)  
+- Signal Processing and Sensor Data Fusion  
+- IoT and Smart Devices  
+
+#### **Programming & Tools**
+- Languages: Python, C/C++, Java  
+- Tools: KiCAD, Proteus, MATLAB  
+
+---
+
+### 🌱 What I'm Currently Learning
+- 🧠 Advanced Embedded Machine Learning (Edge AI)  
+- 🔋 Energy-efficient IoT Device Design  
+- 🤖 Robotics (Line-following and Maze-solving Robots)  
+
+---
+
+### 🌐 Let's Connect!
+- **LinkedIn:** [Find Me Here](www.linkedin.com/in/tenura-pinsara)  
+- **GitHub Discussions:** Always up for a chat on electronics or AI!  
+
+---
 
 ### ⚡ Fun Facts
-- 🎮 I love exploring how AI can enhance gaming experiences  
-- 🛠️ I enjoy tinkering with gadgets and building from scratch  
+- 🛠️ I love debugging hardware circuits as much as coding!  
+- 📻 Building RF circuits and exploring signal processing is my go-to weekend hobby.  
 
 ---
 
-### 📊 GitHub Stats  
-![Tenura2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenura2001&show_icons=true&theme=radical)
-
-### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tenura2001&theme=onedark)
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tenura2001&show_icons=true&theme=material-palenight" alt="GitHub Stats" width="50%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tenura2001&theme=material-palenight" alt="GitHub Streak" width="50%" />
+</div>
 
 ---
 
-Feel free to explore my projects and reach out if you share similar interests or need help with your work! 😄
+### 🏆 Achievements
+- 📜 Certified in **Neural Networks** (100% from OpenCV University)  
+- 🎖️ Completed **Edge AI Course** with 80%  
+- 🏆 Building an ESP32-based **line-following robot** with advanced PID tuning  
+
+---
+
+<p align="center">
+  <b>🔧 Always experimenting, always learning.</b>  
+  <br>
+  🚀 Let’s create the future of smart electronics together!
+</p>
