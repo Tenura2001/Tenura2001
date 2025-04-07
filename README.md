@@ -1,72 +1,76 @@
-<h1 align="center">Hi there, I'm Tenura Pinsara! 👋</h1>
-
-<p align="center">
-  <b>🚀 Electronics Enthusiast | AI Explorer | Embedded ML Innovator</b>
-</p>
+<h1 align="center">Tenura Pinsara Pasandul</h1>
+<p align="center"><strong>Electronics Enthusiast | AI Researcher | Embedded Systems Developer</strong></p>
 
 ---
 
-### 🌟 About Me
-- 🛠️ **Passionate about** designing innovative **electronics** and integrating **AI** into hardware.  
-- 🔍 Exploring the intersection of **Edge AI**, **Digital Electronics**, and **IoT**.  
-- 🤝 Open to collaborating on projects that push the boundaries of **Embedded Machine Learning**.  
+## About Me
+
+I am an undergraduate student with a strong passion for designing innovative electronic systems and integrating artificial intelligence into embedded hardware. My interests lie at the intersection of Edge AI, Digital Electronics, and IoT systems. I enjoy building intelligent, power-efficient devices that bring together both software intelligence and hardware control.
+
+I am actively seeking opportunities to collaborate on real-world projects involving Embedded Machine Learning, control systems, robotics, and smart automation.
 
 ---
 
-### 💼 Skills & Expertise
-#### **Electronics Specialization**
-- PCB Design and Prototyping  
-- Microcontrollers: Arduino, ESP32, STM32  
-- Digital Circuit Design: SystemVerilog, Digital Logic  
+## Skills and Expertise
 
-#### **AI & Embedded Systems**
-- Machine Learning on Edge Devices (TensorFlow Lite, PyTorch)  
-- Signal Processing and Sensor Data Fusion  
-- IoT and Smart Devices  
+### Electronics and Embedded Systems
+- PCB design and prototyping
+- Microcontroller platforms: Arduino, ESP32, STM32
+- Digital logic design using SystemVerilog
+- Schematic design and circuit simulation
 
-#### **Programming & Tools**
-- Languages: Python, C/C++, Java  
-- Tools: KiCAD, Proteus, MATLAB  
+### AI and Edge Computing
+- Machine Learning on microcontrollers (TensorFlow Lite, PyTorch Mobile)
+- Sensor data fusion and signal processing
+- Hardware-aware ML model optimization
+- IoT system integration and real-time data analysis
 
----
-
-### 🌱 What I'm Currently Learning
-- 🧠 Advanced Embedded Machine Learning (Edge AI)  
-- 🔋 Energy-efficient IoT Device Design  
-- 🤖 Robotics (Line-following and Maze-solving Robots)  
+### Programming and Technical Tools
+- Programming Languages: Python, C/C++, Java
+- Tools: KiCAD, Proteus, MATLAB, Arduino IDE, PlatformIO
+- Communication protocols: UART, I2C, SPI, Wi-Fi, BLE
 
 ---
 
-### 🌐 Let's Connect!
-- **LinkedIn:** [Find Me Here](www.linkedin.com/in/tenura-pinsara)  
-- **GitHub Discussions:** Always up for a chat on electronics or AI!  
+## Current Focus
+
+I am currently deepening my knowledge in the following areas:
+
+- Advanced embedded machine learning techniques
+- Real-time control systems and PID tuning
+- Robotics applications: line-following and maze-solving robots
+- Low-power design and optimization for IoT systems
 
 ---
 
-### ⚡ Fun Facts
-- 🛠️ I love debugging hardware circuits as much as coding!  
-- 📻 Building RF circuits and exploring signal processing is my go-to weekend hobby.  
+## Projects and Achievements
+
+- Designed and implemented an **ESP32-based line-following robot** with PID control and OLED-based UI.
+- Completed **Edge AI Course** with distinction (80%).
+- Achieved 100% score in **Neural Networks Certification** by OpenCV University.
+- Built a **Wi-Fi controlled LED system** using ESP32 with a custom web interface and favicon.
 
 ---
+
+## Contact and Collaboration
+
+- **LinkedIn:** [linkedin.com/in/tenura-pinsara](https://www.linkedin.com/in/tenura-pinsara)
+- **GitHub Discussions:** Open to collaboration and technical discussions in electronics, AI, and embedded design.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tenura2001&show_icons=true&theme=material-palenight" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tenura2001&show_icons=true&theme=default" alt="GitHub Stats" width="50%" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tenura2001&theme=material-palenight" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tenura2001&theme=default" alt="GitHub Streak" width="50%" />
 </div>
 
 ---
 
-### 🏆 Achievements
-- 📜 Certified in **Neural Networks** (100% from OpenCV University)  
-- 🎖️ Completed **Edge AI Course** with 80%  
-- 🏆 Building an ESP32-based **line-following robot** with advanced PID tuning  
+## Personal Philosophy
 
----
+I believe in continuous experimentation, hands-on prototyping, and applying theory through practical builds. Whether debugging circuits or training a model on the edge, I value the process of learning by building.
 
-<p align="center">
-  <b>🔧 Always experimenting, always learning.</b>  
-  <br>
-  🚀 Let’s create the future of smart electronics together!
-</p>
+Let’s work together to advance the future of intelligent hardware systems.
