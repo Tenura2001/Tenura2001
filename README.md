@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Tenura Pinsara Pasandul</h1>
-<p align="center"><strong>🎯 Electronics Enthusiast | 🧠 AI Researcher | 🔧 Embedded Systems Developer</strong></p>
+<p align="center"><strong>Electronics Enthusiast | AI Resear | Embedded Systems Developer</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tenura-pinsara/" target="_blank">
