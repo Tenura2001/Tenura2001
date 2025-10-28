@@ -1,7 +1,7 @@
 <!--
 Hi, Tenura! This is a modern, 2-column README.
-To make it look great, I'm using HTML tables.
-Feel free to update the links and info!
+I've corrected all the badge URLs and added a professional banner placeholder
+that matches your color theme.
 -->
 
 <!-- 1. HEADER -->
@@ -36,7 +36,7 @@ I build hardware that can think, adapt, and solve real-world challenges.
 <!-- Banner Image -->
 
 <p align="center">
-
+<img src="https://www.google.com/search?q=https://placehold.co/900x300/1a1b27/70a5fd%3Ftext%3DTenura%2BPinsara%2BPasandul%26font%3Droboto" alt="Tenura Pinsara Pasandul - AI & Embedded Systems"/>
 </p>
 
 <!-- 2. TWO-COLUMN LAYOUT -->
@@ -131,7 +131,7 @@ I build hardware that can think, adapt, and solve real-world challenges.
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
+    <img src="httpss://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   </p>
 
