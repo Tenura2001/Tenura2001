@@ -64,18 +64,6 @@
 
 <br />
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Tenura2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tenura's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenura2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tenura2001&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
